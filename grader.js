@@ -22,7 +22,7 @@ module.exports = {
   },
 
   averageScore: function (arr) {
-    var i = 0;
+    var i = 0;  
     var result = 0;
     while (i < arr.length) {
       result += arr[i];
